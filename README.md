@@ -1,12 +1,12 @@
-[![License: GPL v2](./assets/images/license-GPL_v2-blue.svg)](./assets/license-docs/pretext/gpl-v2-pre.txt)
+[![License: GPL v3](./assets/images/license-GPLv3-blue.svg)](./assets/license-docs/pretext/gpl-v3-pre.txt)
   
-# My New Project
+# My Special Project
 
 
 
 ## Description
   
-  A brief encounter of the third kind.
+  This is a description of my project
 
 
 
@@ -25,13 +25,13 @@
 
 ## Installation
 
-see installation Demo
+This is how to install.
 
 
 
 ## Usage
 
-see instruction Demo
+This is how to use...see demo.
 
 ## Usage Video
 
@@ -42,25 +42,25 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-credits
+Credit to all far and wide.
 
 
 
 ## License
 
-[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v2.md)
+[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v3.md)
 
 
 
 ## Features
 
-features
+The folowing features are available; a scan of the internet for strange events, among other things.
 
 
 
 ## Contributing
 
-Please contribute
+Come one, come all, contributions encouraged.
 
 [Contributor Covenant](./assets/markdown/contributing.md)
 
@@ -68,7 +68,7 @@ Please contribute
 
 ## Tests
 
-testing 1 2 3
+Setting up Jest tests but not ready for prime-time just yet.
 
 
 
