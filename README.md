@@ -49,7 +49,7 @@ credits
 
 ## License
 
-[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v3.txt)
+[Full Disclosure (use Raw format in github for easier reading)](./assets/license-docs/full-disclosure/gpl-v3.txt)
 
 
 
