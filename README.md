@@ -1,12 +1,12 @@
 [![License: GPL v3](./assets/images/license-GPLv3-blue.svg)](./assets/license-docs/pretext/gpl-v3-pre.txt)
   
-# Title
+# README.md Generator
 
 
 
 ## Description
   
-  Description
+  Some descriptive text
 
 
 
