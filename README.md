@@ -1,4 +1,4 @@
-[![License: GPL v2](./assets/images/license-GPL_v2-blue.svg)](./assets/license-docs/pretext/gpl-v2-pre.txt)
+[![License: GPL v3](./assets/images/license-GPLv3-blue.svg)](./assets/license-docs/pretext/gpl-v3-pre.txt)
   
 # My New Project
 
@@ -6,7 +6,7 @@
 
 ## Description
   
-  A brief description.
+  A brief Description
 
 
 
@@ -26,13 +26,13 @@
 
 ## Installation
 
-see Demo
+see demo
 
 
 
 ## Usage
 
-see Demo
+see demo
 
 ## Usage Video
 
@@ -43,13 +43,13 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-Credits to all.
+credits
 
 
 
 ## License
 
-[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v2.md)
+[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v3.md)
 
 
 
@@ -59,9 +59,11 @@ features
 
 
 
-## Contributors
+## Contributing
 
-contribs
+Thanks to all who helped.
+
+[Contributor Covenant](./assets/markdown/contributing.md)
 
 
 
@@ -77,6 +79,6 @@ Any questions, please contact Mark Dale.
 
 My email address is: msdaledad@gmail.com
 My github profile is https://github.com/msdale
-The pertinent github repository is https://github.com/msdale/readme-generator-text
+The pertinent github repository is https://github.com/msdale/readme-generator-test
 
 
