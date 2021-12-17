@@ -6,7 +6,7 @@
 
 ## Description
   
-  This is a test of the readme-generator
+  A brief description.
 
 
 
@@ -43,7 +43,7 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-Credits for all
+Credits to all.
 
 
 
@@ -77,6 +77,6 @@ Any questions, please contact Mark Dale.
 
 My email address is: msdaledad@gmail.com
 My github profile is https://github.com/msdale
-The pertinent github repository is https://github.com/msdale/readme-generator-test
+The pertinent github repository is https://github.com/msdale/readme-generator-text
 
 
