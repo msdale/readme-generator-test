@@ -6,24 +6,19 @@
 
 ## Description
   
-  This project will test out the ability to create a new README.md file.
+  This is a test of the readme-generator
 
 
 
 ## Table Of Contents
 
-- [My New Project](#my-new-project)
-  - [Description](#description)
-  - [Table Of Contents](#table-of-contents)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Usage Video](#usage-video)
-  - [Credits](#credits)
-  - [License](#license)
-  - [Features](#features)
-  - [Contributing](#contributing)
-  - [Tests](#tests)
-  - [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Features](#features)
+* [Contributors](#contributors)
+* [Tests](#tests)
 
 
 
@@ -31,13 +26,13 @@
 
 ## Installation
 
-see demo
+see Demo
 
 
 
 ## Usage
 
-see demo
+see Demo
 
 ## Usage Video
 
@@ -48,7 +43,7 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-credits to all involved
+Credits for all
 
 
 
@@ -64,9 +59,9 @@ features
 
 
 
-## Contributing
+## Contributors
 
-Please review the [Contributor Covenant](./assets/markdown/contributing.md)
+contribs
 
 
 
