@@ -58,7 +58,10 @@ features
 
 
 
-undefined
+## Contributing
+
+[Contributor Convenant](./assets/markdown/contributing.md)
+
 
 ## Tests
 
