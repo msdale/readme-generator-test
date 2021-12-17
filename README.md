@@ -1,4 +1,4 @@
-[![License: GPL v3](./assets/images/license-GPLv3-blue.svg)](./assets/license-docs/pretext/gpl-v3-pre.txt)
+[![License: GPL v2](./assets/images/license-GPL_v2-blue.svg)](./assets/license-docs/pretext/gpl-v2-pre.txt)
   
 # My New Project
 
@@ -17,7 +17,6 @@
 * [Credits](#credits)
 * [License](#license)
 * [Features](#features)
-* [Contributors](#contributors)
 * [Tests](#tests)
 
 
@@ -26,13 +25,13 @@
 
 ## Installation
 
-see demo
+see installation Demo
 
 
 
 ## Usage
 
-see demo
+see usage Demo
 
 ## Usage Video
 
@@ -43,13 +42,13 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-credits
+Credits for all
 
 
 
 ## License
 
-[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v3.md)
+[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v2.md)
 
 
 
@@ -59,17 +58,11 @@ features
 
 
 
-## Contributing
-
-Thanks to all who helped.
-
-[Contributor Covenant](./assets/markdown/contributing.md)
-
-
+undefined
 
 ## Tests
 
-testing 1 2 3
+Testing 1 2 3
 
 
 
