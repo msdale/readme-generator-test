@@ -1,12 +1,12 @@
-[![License: GPL v3](./assets/images/license-GPLv3-blue.svg)](./assets/license-docs/pretext/gpl-v3-pre.txt)
+[![License: GPL v2](./assets/images/license-GPL_v2-blue.svg)](./assets/license-docs/pretext/gpl-v2-pre.txt)
   
-# README.md Generator
+# My New Project
 
 
 
 ## Description
   
-  Some descriptive text
+  This project will test out the ability to create a new README.md file.
 
 
 
@@ -26,7 +26,7 @@
 
 ## Installation
 
-installation
+see demo
 
 
 
@@ -43,13 +43,13 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-credits
+credits to all involved
 
 
 
 ## License
 
-[Full Disclosure (use Raw format in github for easier reading)](./assets/license-docs/full-disclosure/gpl-v3.txt)
+[Full Disclosure (use Raw format in github for easier reading)](./assets/license-docs/full-disclosure/gpl-v2.txt)
 
 
 
