@@ -6,7 +6,7 @@
 
 ## Description
   
-  A brief Description
+  A brief encounter of the third kind.
 
 
 
@@ -31,7 +31,7 @@ see installation Demo
 
 ## Usage
 
-see usage Demo
+see instruction Demo
 
 ## Usage Video
 
@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/90280725/146261730-a4c30cc8-8ae5-43e4-
 
 ## Credits
 
-Credits for all
+credits
 
 
 
@@ -60,12 +60,15 @@ features
 
 ## Contributing
 
-[Contributor Convenant](./assets/markdown/contributing.md)
+Please contribute
+
+[Contributor Covenant](./assets/markdown/contributing.md)
+
 
 
 ## Tests
 
-Testing 1 2 3
+testing 1 2 3
 
 
 
