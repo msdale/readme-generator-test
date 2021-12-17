@@ -12,13 +12,18 @@
 
 ## Table Of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-* [Features](#features)
-* [Contributors](#contributors)
-* [Tests](#tests)
+- [My New Project](#my-new-project)
+  - [Description](#description)
+  - [Table Of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Usage Video](#usage-video)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Features](#features)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
 
 
@@ -49,7 +54,7 @@ credits to all involved
 
 ## License
 
-[Full Disclosure (use Raw format in github for easier reading)](./assets/license-docs/full-disclosure/gpl-v2.txt)
+[Full Disclosure](./assets/license-docs/full-disclosure/gpl-v2.md)
 
 
 
